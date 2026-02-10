@@ -62,7 +62,7 @@ def scrape_tecnoempleo_multipage(max_paginas=3):
     browser.close()
     
     df = pd.DataFrame(all_results)
-    df.to_csv("../data/ofertas_tecnoempleo_raw.csv", index=False, encoding='utf-8-sig')
+    df.to_csv("../../data/ofertas_tecnoempleo_raw.csv", index=False, encoding='utf-8-sig')
     print(f"🚀 ¡Misión cumplida! Total: {len(df)} ofertas de Tecnoempleo.")
 
 if __name__ == "__main__":

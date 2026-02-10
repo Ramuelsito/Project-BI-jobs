@@ -47,8 +47,8 @@ def scrape():
     # Lógica de guardado (BI Ready)
     if results:
       df = pd.DataFrame(results)
-      if not os.path.exists('../data'): os.makedirs('../data')
-      df.to_csv("../data/ofertas_generico.csv", index=False, encoding='utf-8-sig')
+      if not os.path.exists('../../data'): os.makedirs('../../data')
+      df.to_csv("../../data/ofertas_generico.csv", index=False, encoding='utf-8-sig')
       print(f"✅ Guardadas {len(df)} filas.")
     else:
       print("❌ No se pudo extraer nada. El DOM podría estar vacío o bloqueado.")
