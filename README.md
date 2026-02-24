@@ -11,8 +11,8 @@ This project is a **Data Engineering** exercise designed to mitigate salary opac
 - **Technical Background:** While this project focuses on BI, the code architecture and data processing efficiency are directly informed by my background in **C++ and algorithms**, ensuring a clean and scalable data structure.
 
 ## 💡 Key Insights
-- **Seniority Gap (102%):** The analysis reveals that the average salary for a Senior profile is double that of a Junior. This data highlights a significant **hiring risk aversion**: companies prefer to pay a 100% experience premium rather than investing in the development of emerging talent.
+- **Seniority Gap (119,5%):** The analysis reveals that the average salary for a Senior profile is double that of a Junior. This data highlights a significant **hiring risk aversion**: companies prefer to pay a 100% experience premium rather than investing in the development of emerging talent.
 - **Market Opacity:** Only **35%** of the analyzed job postings explicitly state the salary. This information vacuum justifies the use of benchmarking models, allowing candidates and companies to make decisions based on real data rather than assumptions.
 
 ---
-*Note: My approach is rooted in solving technical problems with scientific rigor. My experience in research and combinatorial optimization allows me to approach data analysis from a perspective of efficiency and data veracity.*
+*Note: My approach is rooted in solving technical problems with scientific rigor. We’ve kept this analysis as objective as possible to ensure the insights are grounded in reality.*
